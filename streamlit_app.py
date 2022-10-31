@@ -1,2 +1,2 @@
 created the main python file
-print("hello")
+st.write("My First Streamlit Web App")
